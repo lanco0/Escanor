@@ -1,0 +1,6 @@
+# Installed deps
+deps/*
+
+# Discordia
+discordia.log
+gateway.json
